@@ -1,0 +1,713 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true and terrible narration of a horrible earthquake which happened in the province of Calabria (in the kingdome of Naples, under the dominion of the King of Spaine) in Italy, upon the 27 of March last past according to forraigne account, and by our English computation, the 17. and the festivity of S. Patrick: to the devastation and depopulation (some totally, some in part) of 8. great cities and 24. townes and castles (in the compasse of some 612. miles English,) and the death of some 50000. persons, of all degrees, sexe, and age. The like never heard of in precedent times. From pregnant atestation, written in English verse, by Martin Parker. With a memorable list of some other earthquaks and horrible accidents, which have heretofore happened in England.</title>
+            <author>M. P. (Martin Parker), d. 1656?</author>
+         </titleStmt>
+         <extent>Approx. 21KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B15156</idno><idno type="EEBO-CITATION">99856917</idno>
+  <idno type="VID">177749</idno>
+  <idno type="EEBO-PROQUEST">2240881873</idno>
+  <idno type="STC">STC 19273</idno>
+  <idno type="STC">ESTC S121750</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99856917e"/>
+            <note>(EEBO-TCP ; phase 2, no. B15156)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 177749)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1180:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true and terrible narration of a horrible earthquake which happened in the province of Calabria (in the kingdome of Naples, under the dominion of the King of Spaine) in Italy, upon the 27 of March last past according to forraigne account, and by our English computation, the 17. and the festivity of S. Patrick: to the devastation and depopulation (some totally, some in part) of 8. great cities and 24. townes and castles (in the compasse of some 612. miles English,) and the death of some 50000. persons, of all degrees, sexe, and age. The like never heard of in precedent times. From pregnant atestation, written in English verse, by Martin Parker. With a memorable list of some other earthquaks and horrible accidents, which have heretofore happened in England.</title>
+                  <author>M. P. (Martin Parker), d. 1656?</author>
+               </titleStmt>
+               <extent>[16] p.   </extent>
+               <publicationStmt>
+                  <publisher>By Tho. Cotes for Ralph Mabb, and Fr. Grove, and are to be sold at his shop upon Snow hill, neere the Sarazins-head,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1638.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Signatures: A.</note>
+                  <note>Running title reads: The great earthquake in Calabria.</note>
+                  <note>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Earthquakes --  England --  Poetry --  Early works to 1800.</term>
+               <term type="geographic_name">Calabria (Italy) --  History --  Earthquake, 1638 --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Amanda Flynn </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Amanda Flynn</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:177749:1"/>
+            <pb facs="tcp:177749:1"/>
+            <p>A True and Terrible Narration OF A horrible Earthquake, which hap<g ref="char:EOLhyphen"/>pened in the Province of Calabria (in the Kindgome of Naples, under the dominion of the King of Spaine) in Italy, upon the 27 of March last past according to For<g ref="char:EOLhyphen"/>raigne account, and by our English computation, the 17. and the Festivity of S. Patrick: to the de<g ref="char:EOLhyphen"/>vastation and depopulation (some totally, some in part) of 8. great Cities, and 24. Townes and Castles (in the compasse of some 612. miles English,) and the death of some 50000. persons, of all degrees, sexe, and age. The like never heard of in precedent times. From pregnant atestation, written in English verse, By Martin Parker.</p>
+            <p>With a memorable List of some other Earthquaks and horrible accidents, which have heretofore happened in England.</p>
+            <p>Printēd at London by Tho. Cotes for Ralph Mabb, and Fr. Grove, and are to be sold at his Shop upon Snow hill, neere the Sarazins-head. 1638.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:177749:2"/>
+            <pb facs="tcp:177749:2"/>
+            <head>THE GREAT EARTH<g ref="char:EOLhyphen"/>QVAKE IN <hi>CA<g ref="char:EOLhyphen"/>LABRIA.</hi>
+            </head>
+            <lg>
+               <head>1.</head>
+               <l>
+                  <seg rend="decorInit">A</seg> Sable quill puld from a Ravēns wing,</l>
+               <l>My muse would bee accomodated with</l>
+               <l>An instrument fit for this mournful thing</l>
+               <l>Of which I purpose to set down the pith</l>
+               <l>It is a subject which may teares extract</l>
+               <l>From him who all his life compunction lackt.</l>
+            </lg>
+            <lg>
+               <head>2.</head>
+               <l>A story 'tis, which to the world unfolds</l>
+               <l>Such horror and amazement, and withall</l>
+               <l>Such motives unto feare, that who beholds</l>
+               <l>(With inward eyes) the same, it may appall,</l>
+               <l>His heart, although of flint or marble made,</l>
+               <l>To powder, what is here in briefe display'd.</l>
+            </lg>
+            <lg>
+               <head>3.</head>
+               <l>Man that's composd of the foure Elements,</l>
+               <l>Offending his Creator, by the same</l>
+               <l>Hath punish'd beene, as diverse presedents</l>
+               <l>Divine and humane, to the world proclaime.</l>
+               <l>Water did all the world o'rewhelme; with fire,</l>
+               <l>Lewde <hi>Sodome</hi> and <hi>Gomorrah</hi> did expire.</l>
+            </lg>
+            <pb facs="tcp:177749:3"/>
+            <lg>
+               <head>4.</head>
+               <l>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#pdcc" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>he ayre insected with many stinking sins,</l>
+               <l>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#pdcc" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>estiferous diseases hath, and doth,</l>
+               <l>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#pdcc" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>roduce, our owne experience credit wins</l>
+               <l>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#pdcc" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>nd ratifies all that I say for troth.</l>
+               <l>The earth hath often quak'd as't were with dread,</l>
+               <l>That sinfull man, upon the same should tread.</l>
+            </lg>
+            <lg>
+               <head>5.</head>
+               <l>This is the theame on which my mourning muse,</l>
+               <l>Hath undertane (at this time) to insist,</l>
+               <l>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#pdcc" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>rom <hi>Italy</hi> this strange and dreadfull newes,</l>
+               <l>By too true notion is made manifist,</l>
+               <l>Where such an earthquake happened of late,</l>
+               <l>The like, time nere to man did promulgate.</l>
+            </lg>
+            <lg>
+               <head>6.</head>
+               <l>The twenty seventh of <hi>March</hi> byth <hi>Roman</hi> count;</l>
+               <l>Seventeenth by ours, within this present yeare,</l>
+               <l>This horid earthquake chan<gap reason="illegible" resp="#pdcc" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>'d, which doth surmount,</l>
+               <l>All of which I did ever reade or heare,</l>
+               <l>Compassion mooves me when I here recite,</l>
+               <l>What with a quaking heart and hand I write.</l>
+            </lg>
+            <lg>
+               <head>7.</head>
+               <l>Ith' Province of <hi>Calabria,</hi> situate</l>
+               <l>Ith' <hi>Heopolonian</hi> Kingdome faire,</l>
+               <l>Where <hi>Spaines</hi> Dominion doth it selfe dilate,</l>
+               <l>Famous for building, fertile soyle, sweete ayre,</l>
+               <l>This wonderous pulpitation of earths frame</l>
+               <l>Hath marvels wrought Hyperbolous to name</l>
+            </lg>
+            <pb facs="tcp:177749:3"/>
+            <lg>
+               <head>8.</head>
+               <l>Twixt three and foure oth' clocke ith' afternoone,</l>
+               <l>Oth' day aforesaide, this mischance did fall,</l>
+               <l>By which million of millions are undone,</l>
+               <l>Nay millions have lost lives and goods withall,</l>
+               <l>Many faire buildings are laid on the ground,</l>
+               <l>Which but one houre before stood firme and sound.</l>
+            </lg>
+            <lg>
+               <head>9.</head>
+               <l>Eight Cities great, (as true report unfolds,</l>
+               <l>Of large Expansion, populous and strong,</l>
+               <l>With foure and twenty Townes, Castles, and Holds,</l>
+               <l>In this destruction meare laid flat along.</l>
+               <l>That honour wherein some too much doe trust,</l>
+               <l>Was on a sudden (here) laid in the dust.</l>
+            </lg>
+            <lg>
+               <head>10.</head>
+               <l>Some of these Cities, Townes, and Castles were,</l>
+               <l>All quite destroyd some halfe, some more, some lesse,</l>
+               <l>A miserable thing it is to heare,</l>
+               <l>Our Lord defend us from the like distresse.</l>
+               <l>In this (and other accidents) we may,</l>
+               <l>Behold the Power Divine, and our fraile stay.</l>
+            </lg>
+            <lg>
+               <head>11.</head>
+               <l>It is conjectur'd, that of all estates,</l>
+               <l>Men, Women, Children, yong, old, rich, and poore,</l>
+               <l>Full fifty thousand finished their dates,</l>
+               <l>Not onely (as we say) brought to deaths doore,</l>
+               <l>But all into his house, within one houre.</l>
+               <l>Were brought (as captives,) to's imperiall power.</l>
+            </lg>
+            <pb facs="tcp:177749:4"/>
+            <lg>
+               <head>12.</head>
+               <l>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#pdcc" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>e thinkes I see with my interiour eyes</l>
+               <l>And through the Organs of my soule I heare</l>
+               <l>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#pdcc" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>he dolefull shreekes, and lacrimable cryes,</l>
+               <l>Which tender Parents made for children deare,</l>
+               <l>Husbands for Wives, wives for their husbands cry,</l>
+               <l>That suffer'd in this sad calamity.</l>
+            </lg>
+            <lg>
+               <head>13.</head>
+               <l>Children for Parents seeke, alas in vaine,</l>
+               <l>Brothers for Sisters, sisters brothers call,</l>
+               <l>Friends for the losse of friends, with woe complaine,</l>
+               <l>But conquering death hath made a pray of all,</l>
+               <l>Insatiate tyrant, could thy jawes devoure,</l>
+               <l>No lesse then fifty thousand in one houre.</l>
+            </lg>
+            <lg>
+               <head>14.</head>
+               <l>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#pdcc" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ot onely people of the meaner sort,</l>
+               <l>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#pdcc" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>n this disasterous tragedy did share,</l>
+               <l>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#pdcc" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ut also Nobles had their dayes cut short,</l>
+               <l>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#pdcc" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>rand Signeours with their Ladies young and faire,</l>
+               <l>In that same space of time, were living, and</l>
+               <l>Dead (as we say) at th'turning of a hand.</l>
+            </lg>
+            <lg>
+               <head>15.</head>
+               <l>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#pdcc" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>mong the rest, one thing is worthy note,</l>
+               <l>City nam'd <hi>Castalione</hi> there,</l>
+               <l>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#pdcc" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>he Prince, (or governour) about was sought,</l>
+               <l>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#pdcc" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>nd live nor dead was not found any where,</l>
+               <l>Some parts of his deare Lady were discry'd,</l>
+               <l>And knowne from other Ladyes who then dy'd.</l>
+            </lg>
+            <pb facs="tcp:177749:4"/>
+            <lg>
+               <head>16.</head>
+               <l>O Christians in your hearts imprint this thing,</l>
+               <l>Tis fit you should remember't every day,</l>
+               <l>Nay every houre, or minute; you who sing,</l>
+               <l>Drinke, sweare, and drab to passe your times away,</l>
+               <l>Can you claime any priviledge or power,</l>
+               <l>When fifty thousand perish'd in one houre.</l>
+            </lg>
+            <lg>
+               <head>17.</head>
+               <l>You may perceive by this what fickle trust,</l>
+               <l>Ought to be given to this worldly state,</l>
+               <l>Tis true we all must dye, the case is just,</l>
+               <l>But who is he that's certaine of his date,</l>
+               <l>Now 'live and merry, in a moments spacē,</l>
+               <l>Dead and perhaps brought in a farre worse case.</l>
+            </lg>
+            <lg>
+               <head>18.</head>
+               <l>This fearefull accident though farre remote</l>
+               <l>Let <hi>English</hi> men lay neare unto their hearts,</l>
+               <l>We who upon security so dote,</l>
+               <l>As though we were alone from other parts</l>
+               <l>Sequesterd, that no misery may us touch,</l>
+               <l>Heaven grant, we don't presume of this too much.</l>
+            </lg>
+            <lg>
+               <head>19.</head>
+               <l>You who on worldly drosse such confidence</l>
+               <l>Impose, as if it would for ever bide,</l>
+               <l>In this sad glasse behold what weake defence,</l>
+               <l>The world affords to them who doe confide</l>
+               <l>Vpon her trust; here Cities, I ownes, and tall</l>
+               <l>Castles, within one houre both stand and fall.</l>
+            </lg>
+            <pb facs="tcp:177749:5"/>
+            <lg>
+               <head>20.</head>
+               <l>For buildings Christendome could not compare,</l>
+               <l>Vnto that Country where this chance befell,</l>
+               <l>
+                  <hi>Calabria</hi> what climate was more rare,</l>
+               <l>What People more in bravery did excell,</l>
+               <l>
+                  <hi>Naples,</hi> the world admires for every thing,</l>
+               <l>That to humanity may pleasure bring.</l>
+            </lg>
+            <lg>
+               <head>21.</head>
+               <l>And this <hi>Calabria</hi> now the Sable stage,</l>
+               <l>Whereon this dreadfull <gap reason="illegible" resp="#pdcc" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ragedy was playd,</l>
+               <l>Belongs to <hi>Naples</hi> and might equipage,</l>
+               <l>Hold with the best oth' Land; for (as I said)</l>
+               <l>All requisite for profit or delight,</l>
+               <l>May there be found, or (at the reast) it might.</l>
+            </lg>
+            <lg>
+               <head>22.</head>
+               <l>But this notorious Earthquake which did spread,</l>
+               <l>Six hundred twelve miles in circuite thereabout,</l>
+               <l>Besides those fifty thousand that are dead,</l>
+               <l>They who are sadly left alone (I doubt)</l>
+               <l>Are in such misery through this mischance,</l>
+               <l>That death to them would be a furtherance.</l>
+            </lg>
+            <lg>
+               <head>23.</head>
+               <l>Let us (if w<gap reason="illegible" resp="#pdcc" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ell be Christians as we ought,</l>
+               <l>Or as w'are nam'd) compassionate this case,</l>
+               <l>The soules of those who dy'd, our Saviour bought</l>
+               <l>With stripes, with Ignominy and disgrace,</l>
+               <l>And dy'd that they might live; O let us then,</l>
+               <l>Leave judging them, least we be Iudg'd agen.</l>
+            </lg>
+            <pb facs="tcp:177749:5"/>
+            <lg>
+               <head>24.</head>
+               <l>Yet it is lamentable to conceive,</l>
+               <l>A Corasive tis to a tender heart,</l>
+               <l>To thinke that death in one houre should bereave</l>
+               <l>The breaths of fifty thousand with one dart.</l>
+               <l>For oft reiteration blame me not,</l>
+               <l>Such fearefull judgements should be ne're forgot.</l>
+            </lg>
+            <lg>
+               <head>25.</head>
+               <l>To shew the naturall causes why the earth,</l>
+               <l>(Fixed by Heaven never to remoove,)</l>
+               <l>Doth quake in judgement, I confesse a dearth,</l>
+               <l>For I resolve never to sore above,</l>
+               <l>The pitch of my owne knowledge; but refer,</l>
+               <l>The curious to the Learn'd Astrologer.</l>
+            </lg>
+            <lg>
+               <head>26.</head>
+               <l>Nor were it (altogether) requisite,</l>
+               <l>To shew you (if I could) such causes heere,</l>
+               <l>For be they what they may (or can) be, yet</l>
+               <l>The God of Nature's Power therein shines cleere,</l>
+               <l>Who can be ignorant that he doth still,</l>
+               <l>By secondary causes worke his will.</l>
+            </lg>
+            <lg>
+               <head>27.</head>
+               <l>The most abject of Creatures, frogs and mise,</l>
+               <l>He can suborne proud <hi>Pharoahs</hi> heart to quell,</l>
+               <l>
+                  <hi>Thrasonicke Herod,</hi> may be eate with lice,</l>
+               <l>And many proofes (too tedious here to tell)</l>
+               <l>Are instances to shew that tis our God,</l>
+               <l>That strikes the stroke, what ever be the rod.</l>
+            </lg>
+            <pb facs="tcp:177749:6"/>
+            <lg>
+               <head>28.</head>
+               <l>Will <hi>Hezekia</hi> of his plague be quit,</l>
+               <l>Then let him figge leaves to the sore apply,</l>
+               <l>A heavenly Doctor doth administer it,</l>
+               <l>Or else for all the figge leaves he may dye.</l>
+               <l>By such things which to humane sence appeares,</l>
+               <l>Preposterous, he ex<gap reason="illegible" resp="#pdcc" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cts our love, and feare.</l>
+            </lg>
+            <lg>
+               <head>29.</head>
+               <l>Now to returne from whence I have degrest,</l>
+               <l>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#pdcc" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>et every Christian (as before I said)</l>
+               <l>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#pdcc" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>mprint this sad disaster in his brest,</l>
+               <l>And thinke that though our Lord his hand hath stayd</l>
+               <l>From scourging him; yet let him well forecast,</l>
+               <l>For all old reckonings must be paid at last.</l>
+            </lg>
+            <lg>
+               <head>30.</head>
+               <l>The str<gap reason="illegible" resp="#pdcc" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ke that's long a striking when it comes</l>
+               <l>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#pdcc" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>t falleth heavy; patience too much urg'd</l>
+               <l>Breakes into fury: selfe conceite benummes</l>
+               <l>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#pdcc" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>s <hi>English</hi> men, cause other Lands are scorg'd</l>
+               <l>And ours is not: instead of thankefulnesse,</l>
+               <l>We all ascribe to our owne worthinesse.</l>
+            </lg>
+            <lg>
+               <head>31.</head>
+               <l>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#pdcc" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>he <hi>Spaniard</hi> is by nature very proud,</l>
+               <l>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#pdcc" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>he <hi>Dutchman</hi> he<gap reason="illegible" resp="#pdcc" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s inclin'd to drunkenesse,</l>
+               <l>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#pdcc" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>he <hi>French</hi> with flattery doth his falshood shroud,</l>
+               <l>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#pdcc" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>he <hi>Italians</hi> bent to lust, this all confesse,</l>
+               <l>But <hi>England</hi> with all natures so agrees,</l>
+               <l>Shee is a briefe compendium of all these.</l>
+            </lg>
+            <pb facs="tcp:177749:6"/>
+            <lg>
+               <head>32.</head>
+               <l>In pride, ebriety, fraud, lechery,</l>
+               <l>These severall nations must of us come short,</l>
+               <l>
+                  <gap reason="illegible" resp="#pdcc" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n fashions we have such variety,</l>
+               <l>The Readers knowledge passes my report.</l>
+               <l>Of either Sex it cannot <gap reason="illegible" resp="#pdcc" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e deny'd,</l>
+               <l>No nation the <hi>English</hi> shall excell in pride.</l>
+            </lg>
+            <lg>
+               <head>33.</head>
+               <l>Ebriety (or swinish dunkennesse)</l>
+               <l>Is so in use among both high and low,</l>
+               <l>Our loves we cannot to our friends expresse,</l>
+               <l>Vnlesse with drinke we make their braines to crow,</l>
+               <l>No <hi>Almaine, Belgian, Dane,</hi> nor <hi>Switzer,</hi> can</l>
+               <l>For drinking be compar'd to th' <hi>Englishman.</hi>
+               </l>
+            </lg>
+            <lg>
+               <head>34.</head>
+               <l>And are we not bent to dissembling,</l>
+               <l>I would we were not; but the case is plaine,</l>
+               <l>In conversation 'tis a common thing,</l>
+               <l>To speake, sincere-ly, very-ly for gaine,</l>
+               <l>I wish with all my heart that writing this</l>
+               <l>Ide wrote a very lye, and thought amisse.</l>
+            </lg>
+            <lg>
+               <head>35.</head>
+               <l>Can we acquit our land of luxury,</l>
+               <l>While knowne examples every day are seene,</l>
+               <l>You who through age experience verity,</l>
+               <l>Tell whether heretofore the like hath beenē,</l>
+               <l>O <hi>England</hi> thou art growne unto that passe,</l>
+               <l>What now is done before time wondrous was.</l>
+            </lg>
+            <pb facs="tcp:177749:8"/>
+            <lg>
+               <head>36.</head>
+               <l>Nay have we not certaine peculier crimes,</l>
+               <l>Of which some other Lands are ignorant,</l>
+               <l>Brought in by the gradation of our times,</l>
+               <l>I wish no Christian might decay through want</l>
+               <l>You whom't concernes take notice what I say,</l>
+               <l>Such sins as these bring Countries to decay.</l>
+            </lg>
+            <lg>
+               <head>37.</head>
+               <l>All this, and more then may this time be spoke,</l>
+               <l>Is found too true, in this our untrue age,</l>
+               <l>Then sith we doe our Lord to wrath provoke,</l>
+               <l>May we not wonder why his jealous rage</l>
+               <l>Hath not consum'd us all before this time,</l>
+               <l>Sure some good prayers for us to heaven clime.</l>
+            </lg>
+            <lg>
+               <head>38.</head>
+               <l>Were we not drownd in pride and selfe conceite,</l>
+               <l>With humble eyes we easily might discerne,</l>
+               <l>That certainely it is Gods mercy great,</l>
+               <l>To spar's; for had we what our sins doe erne</l>
+               <l>We had beene ere this as <hi>Sodome</hi> and <hi>Gomorrah,</hi>
+               </l>
+               <l>But <hi>Abrahams</hi> number doth some respite borrah.</l>
+            </lg>
+            <lg>
+               <head>39.</head>
+               <l>Me thinkes I can't too oft reiterate,</l>
+               <l>This counsell which I heretofore have given,</l>
+               <l>O <hi>England</hi> wouldst thou still retaine thy state,</l>
+               <l>Then shew thy gratitude, give thankes to Heaven,</l>
+               <l>Desire this benefactor that thou maist</l>
+               <l>Injoy his Love as hitherto thou hast.</l>
+            </lg>
+            <pb facs="tcp:177749:8"/>
+            <lg>
+               <head>40.</head>
+               <l>Behold his judgement in his present theame,</l>
+               <l>Confesse thy selfe that thou deserv'st as much,</l>
+               <l>Neither let any take this as a dreame,</l>
+               <l>Who so conceives, if there be any such,</l>
+               <l>He seekes to tye Gods power within the chaines</l>
+               <l>Which he hath forg'd in's owne instable braines.</l>
+            </lg>
+            <lg>
+               <head>41.</head>
+               <l>Not that I would binde any mans beleefe,</l>
+               <l>Vnto <hi>Vox Populi</hi> (or so they say)</l>
+               <l>For then I doe confesse (and speake with griefe)</l>
+               <l>More tales then true he might heare every day.</l>
+               <l>But this sad story of <hi>Calabria's</hi> woe,</l>
+               <l>Hath all that truth can have, its truth to shoe.</l>
+            </lg>
+            <lg>
+               <head>42.</head>
+               <l>It is no newes brought from Duke <hi>Humphryes</hi> tombe,</l>
+               <l>Nor Graves-end Barge: nor any thing invented,</l>
+               <l>But what from <hi>Ʋenice</hi> did (to <hi>England</hi>) come.</l>
+               <l>Where in <hi>Italian</hi> 'twas (with Licence) Printed.</l>
+               <l>If any to gainesay it goes about,</l>
+               <l>He may as well of any writings doubt.</l>
+            </lg>
+            <lg>
+               <head>43.</head>
+               <l>Gods Power cannot be circumscrib'd in bounds,</l>
+               <l>Thats a meere Atheisticall opinion,</l>
+               <l>For he who with a blast his foes confounds,</l>
+               <l>Can we set limits unto his Dominion.</l>
+               <l>And that none may plead ignorance, every age</l>
+               <l>Hath view'd his wonders, acted oth' worlds stage.</l>
+            </lg>
+            <pb facs="tcp:177749:7"/>
+            <lg>
+               <head>44.</head>
+               <l>I will not intermeddle Sacred writ,</l>
+               <l>With my prophane discourse, nor need I do't,</l>
+               <l>The Power Divine appeares so plaine in it,</l>
+               <l>The meanest capacity doubts not to kno't,</l>
+               <l>But touching Earthquakes, and such horrid things,</l>
+               <l>What History affords, my industry brings.</l>
+            </lg>
+            <lg>
+               <head>45.</head>
+               <l>And 'cause tis to my Countrymen I write,</l>
+               <l>I from our <hi>English</hi> Chronicles will gather,</l>
+               <l>A List of what did former times affrite,</l>
+               <l>And I conceite 'twill gaine beleefe the rather;</l>
+               <l>Because 'tis out of our owne stories drawne,</l>
+               <l>For proofe of which my credit is in pawne.</l>
+            </lg>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="letter">
+                        <head>A memoriall or List of some Earthquakes and other horrible accidents which heretofore have hap<g ref="char:EOLhyphen"/>ned in <hi>England,</hi> &amp;c.</head>
+                        <p>
+                           <hi>In</hi> Anno Mundi 3907. <hi>in the Raigne of</hi> Rinalo <hi>the</hi> 12. <hi>King of Britaine from</hi> Brute, <hi>before our blessed Redemers birth</hi> 766. <hi>it rained blood</hi> 3. <hi>dayes, after which come veno<g ref="char:EOLhyphen"/>mous Flyes which slew many people, and there insued such a mortality, that the Land was almost quite depopulated.</hi>
+                        </p>
+                        <p>
+                           <hi>In</hi> Anno Dom. 778. <hi>in the raigne of</hi> Brithrius <hi>King of the west Saxions it rained blood from heaven, which falling on mens cloaths appeared like crosses.</hi>
+                        </p>
+                        <pb facs="tcp:177749:7"/>
+                        <p>
+                           <hi>In</hi> Anno Dom. 1088. <hi>in the second yeare of King</hi> Wil<gap reason="illegible: right margin cropped or obscured" resp="#pdcc" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap> Ruffus, <hi>on the</hi> 11. <hi>day of Angust was a marvelous grea<gap reason="illegible: right margin cropped or obscured" resp="#pdcc" extent="1+ letters">
+                                 <desc>•…</desc>
+                              </gap> Earthquake in England, which overturned many house and Churches, and killed many people.</hi>
+                        </p>
+                        <p>
+                           <hi>In</hi> Anno Dom. 1098. <hi>in the</hi> 12. <hi>yeare of the same King raigne, at</hi> Finchester <hi>in</hi> Barkesheire, <hi>a well cast out bloo<gap reason="illegible: right margin cropped or obscured" resp="#pdcc" extent="1+ letters">
+                                 <desc>•…</desc>
+                              </gap> as before it had done water, and afterward for the space of</hi> 15 <hi>dayes, great flames of fire were seene in the ayre.</hi>
+                        </p>
+                        <p>
+                           <hi>In</hi> Anno. Dom. 1550. <hi>in the</hi> 4. <hi>yeare of</hi> Edward <hi>the sixt upon the the</hi> 25. <hi>of</hi> May, <hi>being Munday, about noone there was an Earthquake for the space of a quarter of an houre, a<gap reason="illegible: right margin cropped or obscured" resp="#pdcc" extent="1+ letters">
+                                 <desc>•…</desc>
+                              </gap>
+                           </hi> Blenchingly, Godsted, Croyden, Albery, <hi>and diverse o<g ref="char:EOLhyphen"/>ther places in</hi> Surry <hi>and</hi> Middlesex.</p>
+                        <p>
+                           <hi>In</hi> Anno Dom. 1579. <hi>the</hi> 19. <hi>of Queene</hi> Elizabeth, <hi>on the</hi> 6. <hi>of</hi> Aprill <hi>was a generall Earthquake over all</hi> England, <hi>especially the South part, which shooke and overturned ma<g ref="char:EOLhyphen"/>ny houses, Churches, and Castles, and slew a great number of people, which wrought such a sudden distraction and amaze<g ref="char:EOLhyphen"/>ment among the survivers, that many thought doomes day was come.</hi>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <lg>
+               <head>46.</head>
+               <l>And what of all this may the Reader say,</l>
+               <l>To whom I answer theres a reason just,</l>
+               <l>For many hearts are hardned at this day,</l>
+               <l>They'll beleeve nothing but what needs they must.</l>
+               <l>What their owne eyes behold 'nay hardly that,</l>
+               <l>This is a thing much to be wondered at.</l>
+            </lg>
+            <pb facs="tcp:177749:9"/>
+            <lg>
+               <head>47.</head>
+               <l>These severall examples here produc'd</l>
+               <l>From our owne records, seene in our owne Land,</l>
+               <l>I thinke by no just man will be refusd,</l>
+               <l>This being presum'd, then Reader understand,</l>
+               <l>Earthquakes have beene in <hi>England</hi> as is shownē,</l>
+               <l>Why not in <hi>Italy,</hi> though to us unknowne.</l>
+            </lg>
+            <lg>
+               <head>48.</head>
+               <l>Now being informed by inteligence</l>
+               <l>Which cannot be suspected; let us then</l>
+               <l>Construe all to a charitable sence,</l>
+               <l>And feare our Lord, expecting daily when,</l>
+               <l>We shall by death be rested for our breath,</l>
+               <l>And pray 'gainst sudden unprovided death.</l>
+            </lg>
+            <lg>
+               <head>48.</head>
+               <l>Let the remembrance of those Christians which,</l>
+               <l>Have suffered sudden death in this sad chance,</l>
+               <l>Be an admonishment to poore and rich,</l>
+               <l>To arme themselves for death's (none sparing) lancē,</l>
+               <l>The want of preparation is the worst,</l>
+               <l>For death is sudden, come it last or first.</l>
+            </lg>
+            <lg>
+               <head>50.</head>
+               <l>Lastly, lets all invoke the Power Divine,</l>
+               <l>To keepe us from destruction and mishaps,</l>
+               <l>And that his favours on us still may shine,</l>
+               <l>Defending us from all the snares and traps,</l>
+               <l>Which enemies may lay to this effect.</l>
+               <l>Our King, Queene, and blest Issue, Lord protect, <hi>Amen.</hi>
+               </l>
+            </lg>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:177749:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
